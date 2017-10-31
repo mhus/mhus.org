@@ -1,6 +1,6 @@
 ## mhus.org
 
-[roadmap](roadmap.md "Roadmap")
+[roadmap]
 
 This is the home of the 'mhus' projects. The projects are
 
