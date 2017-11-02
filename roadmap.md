@@ -20,6 +20,7 @@ mhus-lib 3.4:
 mhus-osgi-tools 1.4:
 
 * Rename the artefacts to separate osgi, karaf/felix and equinox bundles
+* Switch to karaf 4.1.*
 
 mhus-sop 1.0:
 
