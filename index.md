@@ -1,10 +1,10 @@
 ## mhus.org
 
-[roadmap](/roadmap)
+[roadmap](roadmap.md)
 
 This is the home of the 'mhus' projects. The projects are
 
-### mhus-lib 
+### mhus-lib
 <https://github.com/mhus/mhus-lib/tree/master/docs>: A collection of useful tools to develop applications
 
 ### mhus-ports
