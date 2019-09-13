@@ -2,7 +2,7 @@
 
 [roadmap](roadmap.md)
 
-This is the home of the 'mhus' projects. The projects are
+This is the home of the 'mhus' projects.
 
 ### mhus-lib
 <https://github.com/mhus/mhus-lib/tree/master/docs>: A collection of useful tools to develop applications
