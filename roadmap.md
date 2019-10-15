@@ -1,5 +1,9 @@
 [index](index.md)
 
+### mhus 3.7.0
+
+* Cluster ready. mhus-sop extension to synchronize multible services of same kind or other resources in a cluster.
+
 ### mhus-parent 3.6.3 (mhus-lib 3.6.3 / mhus-osgi-tools 1.6.2)
 
 * Reorganization of the project content
