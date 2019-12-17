@@ -145,6 +145,9 @@ A timer task encapsulated in a weak reference.
 
 Tools to work with xml.
 
+## LockManager
+
+Use the LockManager in 'de.mhus.lib.core.base.service' to handle locks in a central way. Use 'M.l(LockManager.class)' and the 'getLock(name)' to get a default local lock. The lock with the name will only exist once for the manager.
 
 ## ILog
 

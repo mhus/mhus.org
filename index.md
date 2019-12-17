@@ -5,7 +5,8 @@
 This is the home of the 'mhus' projects.
 
 ### mhus-lib
-<https://github.com/mhus/mhus-lib/tree/master/docs>: A collection of useful tools to develop applications
+
+A collection of useful tools to develop applications
 
 [mhus-lib](mhus-lib/readme.md)
 
@@ -13,7 +14,7 @@ This is the home of the 'mhus' projects.
 
 Forks and ports to extend or change behavior of existing oss, mostly to embed projects into a osgi bundle
 
-### mhus-osgi-tools mhus-osgi-crypt mhus-transform
+### mhus-osgi-tools mhus-transform
 
 A set of tools for the osgi framework. Specially for apache-karaf.
 
@@ -32,3 +33,11 @@ A web CMS framework to develop web applications
 ### cherry-reactive
 
 A BPM engine you can create tasks by java classes. It's possible to embed it or run it as server instance.
+
+### cherry-vault
+
+A vault server to manage secrets.
+
+### mhus-osgi-crypt
+
+A cryptographic framework based on apache karaf.
